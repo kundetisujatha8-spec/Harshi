@@ -89,7 +89,7 @@ button:hover {
 .heart {
     position: absolute;
     bottom: -30px;
-    animation: floatUp 6s linear forwards;
+    animation: floatUp 5s linear forwards;
 }
 
 @keyframes floatUp {
